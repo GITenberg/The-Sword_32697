@@ -1,0 +1,36 @@
+_repo: The-Sword_32697
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Beecham, Tom
+    alias: Beecham, Thomas A.
+    birthdate: 1926
+    deathdate: 2000
+    gutenberg_agent_id: '34284'
+    url: http://www.gutenberg.org/2009/agents/34284
+covers:
+- cover_type: archival
+  image_path: 32697-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Quattrocchi, Frank
+    gutenberg_agent_id: '35990'
+    url: http://www.gutenberg.org/2009/agents/35990
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32697'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Extraterrestrial beings -- Fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+title: The Sword
+url: http://www.gutenberg.org/ebooks/32697
